@@ -1,0 +1,1 @@
+C:\Users\Matt\Downloads\ultimate_rust_crash_course-main\exercise\c_simple_types\target\debug\ding_machine.exe: C:\Users\Matt\Downloads\ultimate_rust_crash_course-main\exercise\c_simple_types\src\lib.rs C:\Users\Matt\Downloads\ultimate_rust_crash_course-main\exercise\c_simple_types\src\main.rs
